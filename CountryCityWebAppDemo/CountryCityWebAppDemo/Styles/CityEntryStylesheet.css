@@ -1,0 +1,133 @@
+﻿body {
+}
+.cityEntryWrapper {
+    margin: 0px auto;
+    width: 600px;
+    border: 1px solid gray;
+}
+.cityEntryContainer {
+    margin: 0px auto;
+    width: 380px;
+    border: 1px solid green; 
+    min-height: 450px;
+}
+.cityEntryHeaderText {
+    font-size:25px;
+    font-weight: bold;
+    padding-top:10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: greenyellow;
+}
+.cityEntryContent {
+    min-height:330px;
+    font-weight: bold;
+}
+.nameEntryDiv {
+    padding-top:5px;
+    padding-bottom: 5px;
+    height: 30px;
+}
+.nameText {
+    float: left;
+    padding-left: 5px;
+    height: 20px;
+}
+.nameTextBoxDiv {
+    float: right;
+    padding-right: 5px;
+    height: 20px;
+}
+.aboutEntryDiv {
+    padding-top:5px;
+    padding-bottom: 5px;
+    height: 110px;
+}
+.aboutText {
+    float: left;
+    padding-left: 5px;
+    height: 20px;
+}
+.aboutTextBoxDiv {
+    float: right;
+    padding-right: 5px;
+    height: 20px;
+}
+.nOfDwDiv {
+    padding-top:5px;
+    padding-bottom: 5px;
+    height: 30px;
+}
+.numberOfDwlText {
+    float: left;
+    padding-left: 5px;
+    height: 20px;
+}
+.numberOfDwlTextBox {
+    float: right;
+    padding-right: 5px;
+    height: 20px;
+}
+.locationEntryDiv {
+    padding-top:5px;
+    padding-bottom: 5px;
+    height: 30px;
+}
+.locationText {
+    float: left;
+    padding-left: 5px;
+    height: 20px;
+}
+.locationTextBoxDiv {
+    float: right;
+    padding-right: 5px;
+    height: 20px;
+}
+.weatherEntryDiv {
+    padding-top:5px;
+    padding-bottom: 5px;
+    min-height: 80px;
+}
+.weatherText {
+    float: left;
+    padding-left: 5px;
+    height: 20px;
+}
+.weatherTextBoxDiv {
+    float: right;
+    padding-right: 5px;
+    height: 20px;
+}
+.countryEntryDiv {
+    padding-top:5px;
+    padding-bottom: 5px;
+    height: 30px;
+}
+.countryText {
+    float: left;
+    padding-left: 5px;
+    height: 20px;
+}
+.countryDropdown {
+    float: right;
+    padding-right: 5px;
+    height: 20px;
+}
+.saveButtonDiv {
+    padding-left: 170px;
+    clear: both;
+    width: 380px;
+}
+.gridViewDiv {
+    margin: 0px auto;
+    width: 500px;
+    border: 1px solid black;
+    height: 300px;
+    padding-top: 10px;
+}
+.cityEntryGridView th {
+    border: 1px solid gray;
+}
+.cityEntryGridView td {
+    border: 1px solid gray;
+}

@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="CountryCityWebAppDemo.UI.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    
+    
+ <asp:ContentPlaceHolder ID="headSection" runat="server">         
+      <link href="../Styles/MayerReset.css" rel="stylesheet" />     
+    <link href="../Styles/MainStylesheet.css" rel="stylesheet" />
+   </asp:ContentPlaceHolder>  
+       
+   
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="wrapper">
+        <header>
+            <div class="logo">
+                <img src="../Content/City.jpg" />
+                
+            </div>
+            <div class="headRight">
+            <div class="headerText">
+                <h1>All the countries and cities in the world</h1>
+            </div>
+                </div>
+  
+        </header>
+        <nav id="primary_nav_wrap">
+            <ul>
+                <li class="current-menu-item"><a href="Home.aspx">Home</a></li>
+                <li><a href="CityEntry.aspx">City Entry</a></li>
+                <li><a href="CountryEntry.aspx">Country Entry</a></li>
+                <li><a href="ViewCity.aspx">View City</a></li>                               
+                <li><a href="ViewCountry.aspx">View Country</a></li>
+            </ul>
+        </nav>
+        <div class="container">
+            <div class="content">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    
+                </asp:ContentPlaceHolder>
+        </div>
+        <footer>Copyright@4dCoders</footer>
+    </div>
+    </form>
+</body>
+</html>

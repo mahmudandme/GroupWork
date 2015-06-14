@@ -1,0 +1,6 @@
+I:\VS_Mine\Web\SEIP\CountryCityWebAppDemo\CountryCityWebAppDemo\bin\CountryCityWebAppDemo.dll.config
+I:\VS_Mine\Web\SEIP\CountryCityWebAppDemo\CountryCityWebAppDemo\bin\CountryCityWebAppDemo.dll
+I:\VS_Mine\Web\SEIP\CountryCityWebAppDemo\CountryCityWebAppDemo\bin\CountryCityWebAppDemo.pdb
+I:\VS_Mine\Web\SEIP\CountryCityWebAppDemo\CountryCityWebAppDemo\obj\Debug\CountryCityWebAppDemo.csprojResolveAssemblyReference.cache
+I:\VS_Mine\Web\SEIP\CountryCityWebAppDemo\CountryCityWebAppDemo\obj\Debug\CountryCityWebAppDemo.dll
+I:\VS_Mine\Web\SEIP\CountryCityWebAppDemo\CountryCityWebAppDemo\obj\Debug\CountryCityWebAppDemo.pdb
